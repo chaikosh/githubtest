@@ -38,3 +38,8 @@ t.write("Я ЛЮБЛЮ ТАНЮ", align="center", font=text_font)
 
 # Оставляем окно открытым до закрытия пользователем
 turtle.done()
+asd
+asd
+asd
+asd
+asd
